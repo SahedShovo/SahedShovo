@@ -1,5 +1,19 @@
-# 💫 About Me:
-👋 Hi, I'm Sahed Ahmed, a CSE student from Bangladesh 🇧🇩  <br>💻 Aspiring Full-Stack Developer passionate about building web applications.  <br>⚡ Skilled in React.js, Next.js, Node.js, NestJS, TypeScript, and PostgreSQL.  <br>🚀 Experienced in building real-world full-stack projects.  <br>🌱 Always learning new technologies and improving my skills.  <br>🤝 Open to collaboration, internships, and freelance opportunities.
+# 💫 About Me
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Sahed+Ahmed+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;Exploring+Machine+Learning+%26+Data+Science+%F0%9F%A4%96;Learning+Model+Training+%26+Computer+Vision+%F0%9F%A7%A0" alt="Typing SVG" />
+</div>
+
+- 🎓 CSE Student at **American International University-Bangladesh (AIUB)** 🇧🇩
+- 💻 Building full-stack applications with React, Next.js, Node.js, and NestJS.
+- 🛠️ Working with TypeScript, PostgreSQL, and modern web technologies.
+- 🤖 Exploring Machine Learning, Data Science, and Deep Learning.
+- 🧠 Learning model training, evaluation, and optimization.
+- 👁️ Interested in Computer Vision and Pattern Recognition (CVPR).
+- 🚀 Experienced in developing real-world full-stack projects.
+- 🤝 Open to internships, freelance projects, and collaboration.
+
+
 
 
 ## 🌐 Socials:
